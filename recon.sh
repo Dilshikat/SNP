@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#sbp script
 # Specify the target host or IP address
 target=$1
 file=$2
